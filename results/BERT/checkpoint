@@ -1,0 +1,2 @@
+model_checkpoint_path: "BERT"
+all_model_checkpoint_paths: "BERT"

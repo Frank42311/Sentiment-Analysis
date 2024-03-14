@@ -1,0 +1,2 @@
+model_checkpoint_path: "MobileBERT"
+all_model_checkpoint_paths: "MobileBERT"
